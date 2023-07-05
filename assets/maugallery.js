@@ -201,7 +201,7 @@
       }" tabindex="-1" role="dialog" aria-hidden="true">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
-                        <div class="modal-body modal-body_center">
+                        <div class="modal-body modal-body_center"> 
                             ${
                               navigation
                                 ? '<div class="mg-prev" style="cursor:pointer;position:absolute;top:50%;left:-15px;background:white;"><</div>'
